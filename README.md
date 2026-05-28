@@ -182,7 +182,7 @@ High confidence does not mean correct. Setting a floor at 0.60 ensures borderlin
 
 ```
 📦 cease-desist-agent/
-├── 📓 Capstone_Project_Rajendra_Raju_final.ipynb
+├── 📓 Capstone_Project_Rajendra_Raju.ipynb
 ├── 📁 uploaded_pdfs/          ← PDFs go here (auto-created)
 ├── 📁 outputs/
 │   ├── cease_documents.db

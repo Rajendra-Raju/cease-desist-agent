@@ -1,6 +1,6 @@
 # Cease & Desist Document Processing — Agentic AI System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/Capstone_Project_Rajendra_Raju_final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rajendra-Raju/cease-desist-agent/blob/main/Capstone_Project_Rajendra_Raju.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-green.svg)](https://github.com/langchain-ai/langgraph)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -116,6 +116,11 @@ class ClassificationResult(BaseModel):
 
 ## How to Run
 
+### Prerequisites
+- A free Groq API key — get one at [console.groq.com](https://console.groq.com)
+- Google Colab (free) or Python 3.10+ locally
+- One or more PDF files to test with
+
 ### 1. Open in Google Colab
 Click the badge at the top of this README.
 
@@ -177,7 +182,7 @@ High confidence does not mean correct. Setting a floor at 0.60 ensures borderlin
 
 ```
 📦 cease-desist-agent/
-├── 📓 Capstone_Project_Rajendra_Raju.ipynb
+├── 📓 Capstone_Project_Rajendra_Raju_final.ipynb
 ├── 📁 uploaded_pdfs/          ← PDFs go here (auto-created)
 ├── 📁 outputs/
 │   ├── cease_documents.db
@@ -194,4 +199,4 @@ High confidence does not mean correct. Setting a floor at 0.60 ensures borderlin
 
 **Rajendra Raju**
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/rajendra-raju) · [GitHub](https://github.com/Rajendra-Raju)
